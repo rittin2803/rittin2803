@@ -24,8 +24,11 @@ Here are some ideas to get you started:
 
 <div align="center">
  🔭 I’m currently pursuing B.Tech in CSE-Cybersecurity at Amrita Vishwa Vidyapeetham
+    <br/>
  🌱 I’m currently learning **MERN, Redux, AWS**
+    <br/>
  👯 I’m looking to collaborate on projects related to web development.
+    <br/>
  </div>
  
 <div align="center"> 
