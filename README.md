@@ -23,14 +23,9 @@ Here are some ideas to get you started:
 <br/>
 
 <div align="center">
- 
  🔭 I’m currently pursuing B.Tech in CSE-Cybersecurity at Amrita Vishwa Vidyapeetham
- 
  🌱 I’m currently learning **MERN, Redux, AWS**
-
  👯 I’m looking to collaborate on projects related to web development.
- 💬 Ask me about my experiences as a student at Amrita Vishwa Vidyapeetham, or anything related to programming and technology.
-
  </div>
  
 <div align="center"> 
@@ -61,9 +56,6 @@ Here are some ideas to get you started:
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
-
-- **Cloud Hosting**:
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
 
 - **Softwares and Tools**:
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
